@@ -513,7 +513,7 @@ section
 .hamburger
 {
 	display: none;
-	margin-left: 30px;
+	margin-left: 70%;
 	cursor: pointer;
 	margin-right: 4px;
 	-webkit-transform: translateY(2px);
